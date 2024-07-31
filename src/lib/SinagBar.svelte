@@ -1,5 +1,9 @@
 <script lang="ts">
 	import Icon from "@iconify/svelte";
+	import SinagLogo from "$lib/img/sinag_nameplate.png";
+
+	import type { Snippet } from "svelte";
+    let { children }: { children: Snippet } = $props();
 </script>
 
 <svelte:head>
@@ -11,19 +15,34 @@
 	/>
 </svelte:head>
 
-<div class="sinag-sticky">
+<div data-sveltekit-preload-data="tap" class="sinag-sticky">
 	<div class="logo">
-		<img src="https://sinag.dev/assets/img/logo.png" alt="Sinag Logo" />
+		<img src={SinagLogo} alt="Sinag Logo" />
+	</div>
+	<div class="contents">
+		{@render children()}
 	</div>
 	<div class="contact">
 		<ul class="links">
-			<li><a href="#facebook"><Icon icon="devicon:facebook" /></a></li>
-			<li><a href="#twitter"><Icon icon="skill-icons:twitter" /></a></li>
 			<li>
-				<a href="#instagram"><Icon icon="skill-icons:instagram" /></a>
+				<a href="https://www.facebook.com/csspsinag1968"
+					><Icon icon="devicon:facebook" /></a
+				>
 			</li>
 			<li>
-				<a href="#wordpress"><Icon icon="skill-icons:wordpress" /></a>
+				<a href="https://twitter.com/PahayagangKAPP"
+					><Icon icon="skill-icons:twitter" /></a
+				>
+			</li>
+			<li>
+				<a href="https://www.instagram.com/csspsinag"
+					><Icon icon="skill-icons:instagram" /></a
+				>
+			</li>
+			<li>
+				<a href="https://csspsinag.wordpress.com/"
+					><Icon icon="skill-icons:wordpress" /></a
+				>
 			</li>
 		</ul>
 	</div>
@@ -32,7 +51,7 @@
 <style lang="scss">
 	.sinag-sticky {
 		box-sizing: border-box;
-		position: fixed;
+		position: sticky;
 		top: 0;
 		left: 0;
 		width: 100%;
@@ -65,5 +84,18 @@
 		line-height: 100%;
 		padding: 0 auto 0 auto;
 		margin: 0 auto 0 auto;
+	}
+
+	.contents {
+		font-size: clamp(0.25rem, 3vw, 1rem);
+
+		@media screen and (max-width: 480px) {
+			display: none;
+		}
+	}
+
+	.logo {
+		width: fit-content;
+		flex-shrink: 0;
 	}
 </style>
