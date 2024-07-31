@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "Moderat";
+	src: url("/fonts/Moderat Regular.otf") format("opentype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Moderat";
+	src: url("/fonts/Moderat Black.otf") format("opentype");
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Moderat Condensed Black";
+	src: url("/fonts/Moderat Condensed Black.otf") format("opentype");
+	font-weight: 900;
+	font-style: normal;
+}
