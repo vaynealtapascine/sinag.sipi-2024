@@ -1,0 +1,105 @@
+@use "./static/fonts/moderat_import.css";
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	transition: 0.08s all ease-in-out;
+	scroll-behavior: smooth;
+	scroll-margin: 3rem;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+html {
+	font-family: "Open Sans", sans-serif;
+
+	@media (max-width: 720px) {
+		font-size: clamp(14px, 3vw, 16px);
+	}
+}
+
+p {
+	margin: 0;
+	padding: 0 0 1rem 0;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #148981;
+
+	&:visited {
+		color: #148981;
+	}
+	&:hover {
+		color: #63109d;
+	}
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	padding: 0 0 0 0;
+	font-family: "Moderat Condensed Black", sans-serif;
+	text-transform: uppercase;
+	line-height: 0.9;
+	color: #63109d;
+}
+
+h1 {
+	font-size: 4rem;
+	padding: 1rem 2rem;
+	margin: 2rem -2rem 0 -2rem;
+	background: linear-gradient(90deg, #fdc108aa 30%, #fdc10800);
+	border-radius: 2rem;
+
+	@media (max-width: 1080px) {
+		font-size: clamp(2.5rem, 5vw, 4rem);
+	}
+}
+
+h2 {
+	font-size: 3rem;
+	color: #148981;
+
+	@media (max-width: 1080px) {
+		font-size: clamp(2rem, 4vw, 3rem);
+	}
+}
+
+h2.wide-title {
+	padding: 1rem 0;
+	text-align: center;
+	background: linear-gradient(90deg, #fdc10800, #fdc10844 50%, #fdc10800);
+}
+
+h3 {
+	font-size: 2rem;
+	padding-bottom: 0.75rem;
+	@media (max-width: 1080px) {
+		font-size: clamp(1.5rem, 3vw, 2rem);
+	}
+}
+
+.observable-embed {
+	all: unset;
+	transition: 0s all none;
+	iframe {
+		overflow: hidden;
+		background: #fff6;
+		border-radius: 1rem;
+		aspect-ratio: 7/8;
+	}
+}
