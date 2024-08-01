@@ -1,6 +1,6 @@
 {
-	"name": "sinag.local-elections-2024",
-	"version": "0.0.1",
+	"name": "sinag.sipi-2024",
+	"version": "0.4.0",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",

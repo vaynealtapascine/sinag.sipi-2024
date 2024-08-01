@@ -22,8 +22,10 @@
 
 <SinagBar>
 	<Breadcrumb>
-		<BreadcrumbItem href="/sipi" home>SIPI</BreadcrumbItem>
-		<BreadcrumbItem href="/sipi/dept-results#geog">Deptwide</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024" home>SIPI</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024/dept-results#geog"
+			>Deptwide</BreadcrumbItem
+		>
 		<BreadcrumbItem>Geog</BreadcrumbItem>
 	</Breadcrumb>
 </SinagBar>
@@ -102,14 +104,14 @@
 			classNames="rightwide place-self-stretch !my-0"
 			title="Kasaysayan ▶"
 			description="Full results & analysis"
-			href="/sipi/dept-results/kas"
+			href="/sipi/2024/dept-results/kas"
 			side="to left"
 		/>
 		<PageButton
 			classNames="leftwide place-self-stretch !mt-0 "
 			title="◀ Departmental Results"
 			description="Results across all the departments"
-			href="/sipi/dept-results#geog"
+			href="/sipi/2024/dept-results#geog"
 			side="to right"
 		/>
 	</div>

@@ -151,7 +151,7 @@
 
 <SinagBar>
 	<Breadcrumb>
-		<BreadcrumbItem href="/sipi" home>SIPI</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024" home>SIPI</BreadcrumbItem>
 		<BreadcrumbItem>Departmentwide</BreadcrumbItem>
 	</Breadcrumb>
 </SinagBar>
@@ -178,7 +178,7 @@
 		<PageButton
 			title="◀ Collegewide Results"
 			description="Results across the entire College"
-			href="/sipi"
+			href="/sipi/2024"
 			side="to right"
 			classNames="leftwide"
 		/>
@@ -805,7 +805,7 @@
 				title="Anthro ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/anthro"
+				href="/sipi/2024/dept-results/anthro"
 			/>
 		</div>
 
@@ -859,7 +859,7 @@
 				title="Geog ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/geog"
+				href="/sipi/2024/dept-results/geog"
 			/>
 		</div>
 
@@ -909,7 +909,7 @@
 				title="Kas ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/kas"
+				href="/sipi/2024/dept-results/kas"
 			/>
 		</div>
 
@@ -958,7 +958,7 @@
 				title="Lingg ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/lingg"
+				href="/sipi/2024/dept-results/lingg"
 			/>
 		</div>
 
@@ -985,7 +985,7 @@
 				title="Philo ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/philo"
+				href="/sipi/2024/dept-results/philo"
 			/>
 		</div>
 
@@ -1042,7 +1042,7 @@
 				title="PolSc ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/polsc"
+				href="/sipi/2024/dept-results/polsc"
 			/>
 		</div>
 
@@ -1123,7 +1123,7 @@
 				title="Psych ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/psych"
+				href="/sipi/2024/dept-results/psych"
 			/>
 		</div>
 
@@ -1176,7 +1176,7 @@
 				title="Socio ▶"
 				side="to left"
 				description="Full results & analysis"
-				href="/sipi/dept-results/socio"
+				href="/sipi/2024/dept-results/socio"
 			/>
 		</div>
 		<PageButton
@@ -1184,7 +1184,7 @@
 			title="Conclusions ▶"
 			side="to left"
 			description="Final notes"
-			href="/sipi/conclusion"
+			href="/sipi/2024/conclusion"
 		/>
 	</div>
 </div>

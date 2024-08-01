@@ -21,8 +21,9 @@
 
 <SinagBar>
 	<Breadcrumb>
-		<BreadcrumbItem href="/sipi" home>SIPI</BreadcrumbItem>
-		<BreadcrumbItem href="/sipi/dept-results#socio">Deptwide</BreadcrumbItem
+		<BreadcrumbItem href="/sipi/2024" home>SIPI</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024/dept-results#socio"
+			>Deptwide</BreadcrumbItem
 		>
 		<BreadcrumbItem>Socio</BreadcrumbItem>
 	</Breadcrumb>
@@ -102,14 +103,14 @@
 			classNames="rightwide place-self-stretch !my-0"
 			title="Conclusion ▶"
 			description="Final notes"
-			href="/sipi/conclusion"
+			href="/sipi/2024/conclusion"
 			side="to left"
 		/>
 		<PageButton
 			classNames="leftwide place-self-stretch !mt-0 "
 			title="◀ Departmental Results"
 			description="Results across all the departments"
-			href="/sipi/dept-results#socio"
+			href="/sipi/2024/dept-results#socio"
 			side="to right"
 		/>
 	</div>

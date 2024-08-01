@@ -22,8 +22,9 @@
 
 <SinagBar>
 	<Breadcrumb>
-		<BreadcrumbItem href="/sipi" home>SIPI</BreadcrumbItem>
-		<BreadcrumbItem href="/sipi/dept-results#lingg">Deptwide</BreadcrumbItem
+		<BreadcrumbItem href="/sipi/2024" home>SIPI</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024/dept-results#lingg"
+			>Deptwide</BreadcrumbItem
 		>
 		<BreadcrumbItem>Lingg</BreadcrumbItem>
 	</Breadcrumb>
@@ -103,14 +104,14 @@
 			classNames="rightwide place-self-stretch !my-0"
 			title="Philosophy ▶"
 			description="Full results & analysis"
-			href="/sipi/dept-results/philo"
+			href="/sipi/2024/dept-results/philo"
 			side="to left"
 		/>
 		<PageButton
 			classNames="leftwide place-self-stretch !mt-0 "
 			title="◀ Departmental Results"
 			description="Results across all the departments"
-			href="/sipi/dept-results#lingg"
+			href="/sipi/2024/dept-results#lingg"
 			side="to right"
 		/>
 	</div>

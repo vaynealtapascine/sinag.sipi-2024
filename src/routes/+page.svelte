@@ -1,5 +1,4 @@
 <script>
-	import GaugeSwitcher from "./../lib/GaugeSwitcher.svelte";
 	import Toc from "svelte-toc";
 	import { Breadcrumb, BreadcrumbItem } from "flowbite-svelte";
 
@@ -471,7 +470,7 @@
 			side="to left"
 			title="Departmental Results ▶"
 			description="Department-specific results and trends"
-			href="/sipi/dept-results"
+			href="/sipi/2024/dept-results"
 		/>
 	</div>
 </div>

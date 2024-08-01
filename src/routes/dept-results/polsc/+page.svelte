@@ -22,8 +22,9 @@
 
 <SinagBar>
 	<Breadcrumb>
-		<BreadcrumbItem href="/sipi" home>SIPI</BreadcrumbItem>
-		<BreadcrumbItem href="/sipi/dept-results#polsc">Deptwide</BreadcrumbItem
+		<BreadcrumbItem href="/sipi/2024" home>SIPI</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024/dept-results#polsc"
+			>Deptwide</BreadcrumbItem
 		>
 		<BreadcrumbItem>PolSc</BreadcrumbItem>
 	</Breadcrumb>
@@ -103,14 +104,14 @@
 			classNames="rightwide place-self-stretch !my-0"
 			title="Psychology ▶"
 			description="Full results & analysis"
-			href="/sipi/dept-results/psych"
+			href="/sipi/2024/dept-results/psych"
 			side="to left"
 		/>
 		<PageButton
 			classNames="leftwide place-self-stretch !mt-0 "
 			title="◀ Departmental Results"
 			description="Results across all the departments"
-			href="/sipi/dept-results#polsc"
+			href="/sipi/2024/dept-results#polsc"
 			side="to right"
 		/>
 	</div>

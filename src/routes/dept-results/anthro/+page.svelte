@@ -22,8 +22,8 @@
 
 <SinagBar>
 	<Breadcrumb>
-		<BreadcrumbItem href="/sipi" home>SIPI</BreadcrumbItem>
-		<BreadcrumbItem href="/sipi/dept-results#anthro"
+		<BreadcrumbItem href="/sipi/2024" home>SIPI</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024/dept-results#anthro"
 			>Deptwide</BreadcrumbItem
 		>
 		<BreadcrumbItem>Anthro</BreadcrumbItem>
@@ -104,14 +104,14 @@
 			classNames="rightwide place-self-stretch !my-0"
 			title="Geography ▶"
 			description="Full results & analysis"
-			href="/sipi/dept-results/geog"
+			href="/sipi/2024/dept-results/geog"
 			side="to left"
 		/>
 		<PageButton
 			classNames="leftwide place-self-stretch !mt-0 "
 			title="◀ Departmental Results"
 			description="Results across all the departments"
-			href="/sipi/dept-results#anthro"
+			href="/sipi/2024/dept-results#anthro"
 			side="to right"
 		/>
 	</div>

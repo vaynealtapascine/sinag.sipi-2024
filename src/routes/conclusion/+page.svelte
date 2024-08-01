@@ -18,8 +18,8 @@
 
 <SinagBar>
 	<Breadcrumb>
-		<BreadcrumbItem href="/sipi" home>SIPI</BreadcrumbItem>
-		<BreadcrumbItem href="/sipi/dept-results">Deptwide</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024" home>SIPI</BreadcrumbItem>
+		<BreadcrumbItem href="/sipi/2024/dept-results">Deptwide</BreadcrumbItem>
 		<BreadcrumbItem>Conclusion</BreadcrumbItem>
 	</Breadcrumb>
 </SinagBar>
@@ -41,7 +41,7 @@
 			classNames="leftwide place-self-stretch !mt-0 "
 			title="◀ Departmental Results"
 			description="Results across all the departments"
-			href="/sipi/dept-results"
+			href="/sipi/2024/dept-results"
 			side="to right"
 		/>
 		<div class="reg-span">

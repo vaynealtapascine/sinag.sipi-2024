@@ -17,7 +17,7 @@
 
 <div data-sveltekit-preload-data="tap" class="sinag-sticky">
 	<div class="logo">
-		<img src={SinagLogo} alt="Sinag Logo" />
+		<a href="https://sinag.press/"><img src={SinagLogo} alt="Sinag Logo" /></a>
 	</div>
 	<div class="contents">
 		{@render children()}
@@ -37,11 +37,6 @@
 			<li>
 				<a href="https://www.instagram.com/csspsinag"
 					><Icon icon="skill-icons:instagram" /></a
-				>
-			</li>
-			<li>
-				<a href="https://csspsinag.wordpress.com/"
-					><Icon icon="skill-icons:wordpress" /></a
 				>
 			</li>
 		</ul>

@@ -16,7 +16,7 @@ This year, in an effort to best present the voting behavior and results of the e
 
 This was done through the use of data visualization tools such as [D3.js](https://d3js.org), a JavaScript library for producing dynamic, interactive data visualizations in web browsers, [Observable](https://observablehq.com), a platform for creating and sharing data visualizations, as well as [Flourish](https://flourish.studio/), a platform for creating data visualizations.
 
-The project is hosted on a website built on [Svelte](https://svelte.dev), a front-end JavaScript framework, and is deployed publicly [here](https://sinag.press/sipi). Svelte was developed by Rich Harris, himself a former newsroom developer, and is known for its simplicity and ease of use in building interactive web applications, particularly at the New York Times, where Harris worked.
+The project is hosted on a website built on [Svelte](https://svelte.dev), a front-end JavaScript framework, and is deployed publicly [here](https://sinag.press/sipi/2024). Svelte was developed by Rich Harris, himself a former newsroom developer, and is known for its simplicity and ease of use in building interactive web applications, particularly at the New York Times, where Harris worked.
 
 ## About the Author
 
