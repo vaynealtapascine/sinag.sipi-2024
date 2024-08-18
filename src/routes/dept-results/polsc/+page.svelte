@@ -42,63 +42,63 @@
 			<div class="flex-grow">
 				<img
 					src={Population}
-					alt="84 voted, with 5 grad voters. There are 106 undergraduates and 65 graduate students."
+					alt="228 voted, with 1 grad voter. There are 317 undergraduates and 77 graduate students."
 					class="w-full"
 				/>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-					Commodi eligendi odit, illum ea suscipit adipisci sed, iusto
-					magni iste qui voluptas eveniet sit architecto? Unde, nihil?
-					Deserunt impedit reprehenderit voluptatem, dolores, nesciunt
-					sed possimus quae odit delectus laudantium quibusdam aliquam
-					minus culpa ipsum non ratione beatae perspiciatis, labore
-					aliquid. Facilis hic adipisci sed, amet in eaque velit
-					incidunt iure corrupti, excepturi vel itaque! A, vitae!
+					With over 2.12 percentage points of overrepresentation
+					(+11%), PolSc is the second most overrepresented Department,
+					trailing only Geog’s gargantuan 36% overrepresentation
+					(+2.59p.p.). The Department also earns itself second highest
+					turnout at 57%, though still astonishingly distant from
+					Geog’s 70%.
 				</p>
 			</div>
 			<img
 				src={PercentDelta}
-				alt="8.02% of the College vs. 7.59% of the vote (-0.43 percentage points or -5.35%)"
+				alt="18.47% of the College vs. 20.60% of the vote (+2.12 percentage points or +11.50%)"
 				class="flex-shrink w-[clamp(100px,_15vw,_250px)]"
 			/>
 		</div>
 		<img
 			src={WAML}
-			alt="Weighed Average Minimum Lean of the department. +16.10% SAL, -23.64% BUK, -7.45% Abstain."
+			alt="Weighed Average Minimum Lean of the department. -6.56% SAL, -5.81% BUK, -1.43% Abstain."
 			class="rightwide gauge-fade"
 		/>
 		<p class="rightsmall">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-			quas at temporibus ex cum ipsum eaque molestias quia, dolor vitae
-			adipisci vel maxime sit quis mollitia eius ipsam iure exercitationem
-			laboriosam illo molestiae, eum facere nobis repudiandae?
-			Consectetur, id quidem?
+			With a -6% aversion to SALiGAN and -5% aversion to BUKLOD, the
+			Department clearly remains in favor of Independents and holds votes
+			cutting across parties. While BUKLOD edges out wins in the Standard
+			Bearer positions, the Councilorships are a toss-up, with Ochosa and
+			Pascua pulling ahead of the pack with leads over 50% and the rest
+			falling short of 36%.
 		</p>
 		<img
 			src={DeptResults}
-			alt="Results as per votes from the Anthropology department."
+			alt="Results as per votes from the Political Science department."
 			class="full-span"
 		/>
 		<img
 			src={DeptSum}
-			alt="Summative of results from Anthro department."
+			alt="Summative of results from PolSc department."
 			class="leftwide"
 		/>
 		<p class="leftsmall">
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil ad
-			voluptatem nobis.
+			Overall, PolSc’s results are an unsurprising mix across both parties
+			and lower-than-average abstention rates that claim no losses across
+			all candidates.
 		</p>
 		<p class="reg-span">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
-			officia quisquam nihil, sint praesentium odio, veniam sapiente quis
-			tenetur deserunt ipsa ratione non, consequuntur assumenda quod
-			reiciendis pariatur cupiditate asperiores repellat eveniet qui
-			molestiae eius rerum! Aspernatur non eveniet cumque quam, tempore
-			provident sit pariatur cupiditate quasi odio adipisci impedit iure
-			repellendus quos natus nam eaque voluptatem at ut dicta. Voluptatem
-			eum dolore ullam provident incidunt, odit hic, sit perspiciatis
-			voluptatum velit consequuntur eos repudiandae, modi vitae numquam
-			cupiditate similique?
+			PolSc remains particularly unpolarized, suggesting a different
+			voting strategy compared to other departments. While its abstentions
+			are nowhere near as severe as those in Psych and Kas, PolSc retains
+			a sense of skepticism that shows with its higher-than-average
+			abstentions for the Standard Bearer positions.
+		</p>
+		<p class="reg-span">
+			As a large and swingy Department, perhaps different strategies will
+			fare better in the future, as neither party appears mete a foothold
+			in the Department as of yet.
 		</p>
 		<PageButton
 			classNames="rightwide place-self-stretch !my-0"

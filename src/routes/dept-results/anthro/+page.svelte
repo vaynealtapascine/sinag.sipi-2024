@@ -46,14 +46,12 @@
 					class="w-full"
 				/>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-					Commodi eligendi odit, illum ea suscipit adipisci sed, iusto
-					magni iste qui voluptas eveniet sit architecto? Unde, nihil?
-					Deserunt impedit reprehenderit voluptatem, dolores, nesciunt
-					sed possimus quae odit delectus laudantium quibusdam aliquam
-					minus culpa ipsum non ratione beatae perspiciatis, labore
-					aliquid. Facilis hic adipisci sed, amet in eaque velit
-					incidunt iure corrupti, excepturi vel itaque! A, vitae!
+					With a 49% voting rate and a 5% underrepresentation rate,
+					the Anthropology department only slightly wavers in presence
+					within the College elections. However, graduate student
+					remain distant and difficult to reach in the department,
+					with the vast majority of votes made up of undergraduate
+					students (over 74% of whom voted).
 				</p>
 			</div>
 			<img
@@ -68,11 +66,10 @@
 			class="rightwide gauge-fade"
 		/>
 		<p class="rightsmall">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-			quas at temporibus ex cum ipsum eaque molestias quia, dolor vitae
-			adipisci vel maxime sit quis mollitia eius ipsam iure exercitationem
-			laboriosam illo molestiae, eum facere nobis repudiandae?
-			Consectetur, id quidem?
+			With the weighted minimum average lean per the last several years,
+			Anthro remains a SALiGAN stronghold, with a -23% aversion to BUKLOD
+			and a +16% rate in favor of SALiGAN, especially evident through its
+			selection of all SALiGAN candidates.
 		</p>
 		<img
 			src={DeptResults}
@@ -85,20 +82,19 @@
 			class="leftwide"
 		/>
 		<p class="leftsmall">
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil ad
-			voluptatem nobis.
+			In the Department, Matandac fails to beat Abstain, while the rest of
+			BUKLOD is unable to breach 25% of votes in the department.
 		</p>
 		<p class="reg-span">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
-			officia quisquam nihil, sint praesentium odio, veniam sapiente quis
-			tenetur deserunt ipsa ratione non, consequuntur assumenda quod
-			reiciendis pariatur cupiditate asperiores repellat eveniet qui
-			molestiae eius rerum! Aspernatur non eveniet cumque quam, tempore
-			provident sit pariatur cupiditate quasi odio adipisci impedit iure
-			repellendus quos natus nam eaque voluptatem at ut dicta. Voluptatem
-			eum dolore ullam provident incidunt, odit hic, sit perspiciatis
-			voluptatum velit consequuntur eos repudiandae, modi vitae numquam
-			cupiditate similique?
+			Overall, the trend in Anthropology hints at a trend of polarization
+			towards SALiGAN (projected to increase to +35% compared to the rest
+			of the College), but not necessarily an increased aversion towards
+			BUKLOD (projected to dip slightly to -22%). It is possible that
+			deeper divides continue and fractures the Department as a whole, but
+			it remains to be seen how political leanings factor in, especially
+			with a SALiGAN candidate winning the department representative post,
+			along with the efforts of the respective political parties in
+			consolidating their bases.
 		</p>
 		<PageButton
 			classNames="rightwide place-self-stretch !my-0"

@@ -42,63 +42,61 @@
 			<div class="flex-grow">
 				<img
 					src={Population}
-					alt="84 voted, with 5 grad voters. There are 106 undergraduates and 65 graduate students."
+					alt="84 voted, with 5 grad voters. There are 119 undergraduates and 32 graduate students."
 					class="w-full"
 				/>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-					Commodi eligendi odit, illum ea suscipit adipisci sed, iusto
-					magni iste qui voluptas eveniet sit architecto? Unde, nihil?
-					Deserunt impedit reprehenderit voluptatem, dolores, nesciunt
-					sed possimus quae odit delectus laudantium quibusdam aliquam
-					minus culpa ipsum non ratione beatae perspiciatis, labore
-					aliquid. Facilis hic adipisci sed, amet in eaque velit
-					incidunt iure corrupti, excepturi vel itaque! A, vitae!
+					With an impressive 70% voter turnout, the Geog department
+					nets itself a whopping +36% overrepresentation in this
+					College election. Its outsized influence no doubt played a
+					part in Councilor placements, however, its effects on the
+					Standard Bearer positions is perhaps limited by its size.
 				</p>
 			</div>
 			<img
 				src={PercentDelta}
-				alt="8.02% of the College vs. 7.59% of the vote (-0.43 percentage points or -5.35%)"
+				alt="7.08% of the College vs. 9.67% of the vote (+2.59 percentage points or +36.54%)"
 				class="flex-shrink w-[clamp(100px,_15vw,_250px)]"
 			/>
 		</div>
 		<img
 			src={WAML}
-			alt="Weighed Average Minimum Lean of the department. +16.10% SAL, -23.64% BUK, -7.45% Abstain."
+			alt="Weighed Average Minimum Lean of the department. +17.79% SAL, -25.60% BUK, +1.55% Abstain."
 			class="rightwide gauge-fade"
 		/>
 		<p class="rightsmall">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-			quas at temporibus ex cum ipsum eaque molestias quia, dolor vitae
-			adipisci vel maxime sit quis mollitia eius ipsam iure exercitationem
-			laboriosam illo molestiae, eum facere nobis repudiandae?
-			Consectetur, id quidem?
+			With a +17% lean in favor of SALiGAN and a -25% lean against BUKLOD,
+			the Department maintains its position as a SALiGAN stronghold, whose
+			hold is only projected to strengthen to +19%. Despite this however,
+			the department appears to be heading the abstentions in the College,
+			alongside Kas, with a +1.5% abstention lean.
 		</p>
 		<img
 			src={DeptResults}
-			alt="Results as per votes from the Anthropology department."
+			alt="Results as per votes from the Geography department."
 			class="full-span"
 		/>
 		<img
 			src={DeptSum}
-			alt="Summative of results from Anthro department."
+			alt="Summative of results from Geog department."
 			class="leftwide"
 		/>
 		<p class="leftsmall">
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil ad
-			voluptatem nobis.
+			The Department locks out BUKLOD’s candidates entirely, electing a
+			SALiGAN- and Independent-only Council. BUKLOD’s picks are unable to
+			net even 16% of the vote and its Councilors are handily beat by 20%
+			abstention rate, while its Standard Bearers barely scratch the
+			34-36% abstention rate.
 		</p>
 		<p class="reg-span">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
-			officia quisquam nihil, sint praesentium odio, veniam sapiente quis
-			tenetur deserunt ipsa ratione non, consequuntur assumenda quod
-			reiciendis pariatur cupiditate asperiores repellat eveniet qui
-			molestiae eius rerum! Aspernatur non eveniet cumque quam, tempore
-			provident sit pariatur cupiditate quasi odio adipisci impedit iure
-			repellendus quos natus nam eaque voluptatem at ut dicta. Voluptatem
-			eum dolore ullam provident incidunt, odit hic, sit perspiciatis
-			voluptatum velit consequuntur eos repudiandae, modi vitae numquam
-			cupiditate similique?
+			While Geog has recently been under SALiGAN’s grip and was still able
+			to elect its picks this year, it is becoming an increasing concern
+			whether the rising tide of abstentions will override that selection
+			in the following years. While Geog candidates do very well in the
+			Department, their other partymates remain to have to prove
+			themselves to the Department to ensure a win. Community engagement
+			will have to intensify for both parties to engage voters in this
+			Department and maintain or break holds in Geog.
 		</p>
 		<PageButton
 			classNames="rightwide place-self-stretch !my-0"

@@ -41,63 +41,61 @@
 			<div class="flex-grow">
 				<img
 					src={Population}
-					alt="84 voted, with 5 grad voters. There are 106 undergraduates and 65 graduate students."
+					alt="97 voted, with 5 grad voters. There are 140 undergraduates and 64 graduate students."
 					class="w-full"
 				/>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-					Commodi eligendi odit, illum ea suscipit adipisci sed, iusto
-					magni iste qui voluptas eveniet sit architecto? Unde, nihil?
-					Deserunt impedit reprehenderit voluptatem, dolores, nesciunt
-					sed possimus quae odit delectus laudantium quibusdam aliquam
-					minus culpa ipsum non ratione beatae perspiciatis, labore
-					aliquid. Facilis hic adipisci sed, amet in eaque velit
-					incidunt iure corrupti, excepturi vel itaque! A, vitae!
+					With 97 votes at a 47% turnout, Socio nets itself a -8%
+					underrepresentation, particularly significant for a
+					department of its size. It now stands only second to Philo
+					as the department with the lowest turnout.
 				</p>
 			</div>
 			<img
 				src={PercentDelta}
-				alt="8.02% of the College vs. 7.59% of the vote (-0.43 percentage points or -5.35%)"
+				alt="9.56% of the College vs. 8.76% of the vote (-0.80 percentage points or -8.38%)"
 				class="flex-shrink w-[clamp(100px,_15vw,_250px)]"
 			/>
 		</div>
 		<img
 			src={WAML}
-			alt="Weighed Average Minimum Lean of the department. +16.10% SAL, -23.64% BUK, -7.45% Abstain."
+			alt="Weighed Average Minimum Lean of the department. +23.10% SAL, -27.39% BUK, -5.20% Abstain."
 			class="rightwide gauge-fade"
 		/>
 		<p class="rightsmall">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-			quas at temporibus ex cum ipsum eaque molestias quia, dolor vitae
-			adipisci vel maxime sit quis mollitia eius ipsam iure exercitationem
-			laboriosam illo molestiae, eum facere nobis repudiandae?
-			Consectetur, id quidem?
+			With a +23% lean for SALiGAN and a -27% aversion to BUKLOD, Socio
+			stands as perhaps the most polarized department. The extreme
+			political lean in the Department lead to a landslide loss for all of
+			BUKLOD’s candidates and overwhelmingly dominant wins in the
+			Department for SALiGAN.
 		</p>
 		<img
 			src={DeptResults}
-			alt="Results as per votes from the Anthropology department."
+			alt="Results as per votes from the Sociology department."
 			class="full-span"
 		/>
 		<img
 			src={DeptSum}
-			alt="Summative of results from Anthro department."
+			alt="Summative of results from Socio department."
 			class="leftwide"
 		/>
 		<p class="leftsmall">
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil ad
-			voluptatem nobis.
+			BUKLOD, unable to net even 10% of the vote for any of its
+			candidates, was handily beaten by SALiGAN as well as abstentions
+			across the board.
 		</p>
 		<p class="reg-span">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
-			officia quisquam nihil, sint praesentium odio, veniam sapiente quis
-			tenetur deserunt ipsa ratione non, consequuntur assumenda quod
-			reiciendis pariatur cupiditate asperiores repellat eveniet qui
-			molestiae eius rerum! Aspernatur non eveniet cumque quam, tempore
-			provident sit pariatur cupiditate quasi odio adipisci impedit iure
-			repellendus quos natus nam eaque voluptatem at ut dicta. Voluptatem
-			eum dolore ullam provident incidunt, odit hic, sit perspiciatis
-			voluptatum velit consequuntur eos repudiandae, modi vitae numquam
-			cupiditate similique?
+			SALiGAN’s candidates earn majority wins across the entire
+			Department, with Patawaran, Gaspar, and Escototo all netting
+			supermajority votes in their respective positions. Patawaran nets
+			the highest proportional win of any Standard Bearer in any
+			department, while Gaspar nets the same across the Councilors.
+		</p>
+		<p class="reg-span">
+			SALiGAN’s dominance in this Department appears uncontested and
+			trends indicate even more intensified support for the red party in
+			the next election (+34%), however with a decreased aversion for
+			BUKLOD (-23%).
 		</p>
 		<PageButton
 			classNames="rightwide place-self-stretch !my-0"

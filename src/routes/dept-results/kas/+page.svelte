@@ -42,63 +42,60 @@
 			<div class="flex-grow">
 				<img
 					src={Population}
-					alt="84 voted, with 5 grad voters. There are 106 undergraduates and 65 graduate students."
+					alt="85 voted, with 24 grad voters. There are 85 undergraduates and 91 graduate students."
 					class="w-full"
 				/>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-					Commodi eligendi odit, illum ea suscipit adipisci sed, iusto
-					magni iste qui voluptas eveniet sit architecto? Unde, nihil?
-					Deserunt impedit reprehenderit voluptatem, dolores, nesciunt
-					sed possimus quae odit delectus laudantium quibusdam aliquam
-					minus culpa ipsum non ratione beatae perspiciatis, labore
-					aliquid. Facilis hic adipisci sed, amet in eaque velit
-					incidunt iure corrupti, excepturi vel itaque! A, vitae!
+					Despite having the highest graduate student voting rate of
+					26%, the Kas department only nets itself a 48% voting rate,
+					landing near the lower end of department voting rates. It
+					loses out on 0.57 percentage points or nearly 7% of
+					representation. However, its impact on the election is not
+					negligible.
 				</p>
 			</div>
 			<img
 				src={PercentDelta}
-				alt="8.02% of the College vs. 7.59% of the vote (-0.43 percentage points or -5.35%)"
+				alt="8.25% of the College vs. 7.68% of the vote (-0.57 percentage points or -6.94%)"
 				class="flex-shrink w-[clamp(100px,_15vw,_250px)]"
 			/>
 		</div>
 		<img
 			src={WAML}
-			alt="Weighed Average Minimum Lean of the department. +16.10% SAL, -23.64% BUK, -7.45% Abstain."
+			alt="Weighed Average Minimum Lean of the department. -12.56% SAL, -4.94% BUK, +9.85% Abstain."
 			class="rightwide gauge-fade"
 		/>
 		<p class="rightsmall">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-			quas at temporibus ex cum ipsum eaque molestias quia, dolor vitae
-			adipisci vel maxime sit quis mollitia eius ipsam iure exercitationem
-			laboriosam illo molestiae, eum facere nobis repudiandae?
-			Consectetur, id quidem?
+			With aversion to both SALiGAN (-12%) and BUKLOD (-4%) compared to
+			the rest of the College, the Kas department lands its votes heavily
+			on the side of Abstentions (+10%). This is a trend that continues
+			from the previous years.
 		</p>
 		<img
 			src={DeptResults}
-			alt="Results as per votes from the Anthropology department."
+			alt="Results as per votes from the Kasaysayan department."
 			class="full-span"
 		/>
 		<img
 			src={DeptSum}
-			alt="Summative of results from Anthro department."
+			alt="Summative of results from Kas department."
 			class="leftwide"
 		/>
 		<p class="leftsmall">
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil ad
-			voluptatem nobis.
+			As a result, the Department lands nearly no candidates, only
+			electing an independent CSSP Rep and BUKLOD’s Pascua for the
+			Councilorship, leaving vacancies as far as the eye can see.
 		</p>
 		<p class="reg-span">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
-			officia quisquam nihil, sint praesentium odio, veniam sapiente quis
-			tenetur deserunt ipsa ratione non, consequuntur assumenda quod
-			reiciendis pariatur cupiditate asperiores repellat eveniet qui
-			molestiae eius rerum! Aspernatur non eveniet cumque quam, tempore
-			provident sit pariatur cupiditate quasi odio adipisci impedit iure
-			repellendus quos natus nam eaque voluptatem at ut dicta. Voluptatem
-			eum dolore ullam provident incidunt, odit hic, sit perspiciatis
-			voluptatum velit consequuntur eos repudiandae, modi vitae numquam
-			cupiditate similique?
+			With Councilorships netting abstentions over 36% (+12% over the
+			College average), the aversions in the Weighted Average Minimum Lean
+			lends a noticeable dent in what used to be a BUKLOD stronghold,
+			landing itself a nearly non-existent Council. A possible explanation
+			is that the Department’s aversion to the running Dept. Rep
+			Independent Silerio influenced the rest of the candidacies. However,
+			the rising trends of abstentions do not end in Kas and, overall, the
+			College’s rise in abstention rates are likely to become a worry, as
+			early as the next election.
 		</p>
 		<PageButton
 			classNames="rightwide place-self-stretch !my-0"

@@ -764,7 +764,7 @@
 		</p>
 
 		<div class="observable-embed rightwide dept-size" id="crep_ob">
-			<div id="observablehq-chart_anthro-00ecf3b8"></div>
+			<div id="observablehq-chart_anthro-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -774,12 +774,12 @@
 					Runtime,
 					Inspector,
 				} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1917.js?v=4";
+				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 				new Runtime().module(define, (name) => {
 					if (name === "chart_anthro")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_anthro-00ecf3b8"
+								"#observablehq-chart_anthro-1ad6ae72"
 							)
 						);
 				});
@@ -810,8 +810,7 @@
 		</div>
 
 		<div class="observable-embed leftwide dept-size" id="crep_ob">
-			<div id="observablehq-chart_geog-fed61422"></div>
-
+			<div id="observablehq-chart_geog-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -826,7 +825,7 @@
 					if (name === "chart_geog")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_geog-fed61422"
+								"#observablehq-chart_geog-1ad6ae72"
 							)
 						);
 				});
@@ -864,7 +863,7 @@
 		</div>
 
 		<div class="observable-embed rightwide dept-size" id="crep_ob">
-			<div id="observablehq-chart_kas-fed61422"></div>
+			<div id="observablehq-chart_kas-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -879,7 +878,7 @@
 					if (name === "chart_kas")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_kas-fed61422"
+								"#observablehq-chart_kas-1ad6ae72"
 							)
 						);
 				});
@@ -914,7 +913,7 @@
 		</div>
 
 		<div class="observable-embed leftwide dept-size" id="crep_ob">
-			<div id="observablehq-chart_lingg-9571a6dd"></div>
+			<div id="observablehq-chart_lingg-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -929,7 +928,7 @@
 					if (name === "chart_lingg")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_lingg-9571a6dd"
+								"#observablehq-chart_lingg-1ad6ae72"
 							)
 						);
 				});
@@ -990,7 +989,7 @@
 		</div>
 
 		<div class="observable-embed rightwide dept-size" id="crep_ob">
-			<div id="observablehq-chart_polsc-9571a6dd"></div>
+			<div id="observablehq-chart_polsc-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -1005,7 +1004,7 @@
 					if (name === "chart_polsc")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_polsc-9571a6dd"
+								"#observablehq-chart_polsc-1ad6ae72"
 							)
 						);
 				});
@@ -1049,7 +1048,7 @@
 		<div class="observable-embed leftwide" id="crep_ob">
 			<div class="councilor-matrix justify-self-stretch">
 				<div
-					id="observablehq-chart_psych_camarillo-9571a6dd"
+					id="observablehq-chart_psych_camarillo-1ad6ae72"
 					class="dept-size"
 				></div>
 				<link
@@ -1066,14 +1065,14 @@
 						if (name === "chart_psych_camarillo")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_psych_camarillo-9571a6dd"
+									"#observablehq-chart_psych_camarillo-1ad6ae72"
 								)
 							);
 					});
 				</script>
 
 				<div
-					id="observablehq-chart_psych_tagapan-9571a6dd"
+					id="observablehq-chart_psych_tagapan-1ad6ae72"
 					class="dept-size"
 				></div>
 				<link
@@ -1090,7 +1089,7 @@
 						if (name === "chart_psych_tagapan")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_psych_tagapan-9571a6dd"
+									"#observablehq-chart_psych_tagapan-1ad6ae72"
 								)
 							);
 					});
@@ -1128,8 +1127,7 @@
 		</div>
 
 		<div class="observable-embed rightwide dept-size" id="crep_ob">
-			<div id="observablehq-chart_socio-9571a6dd"></div>
-
+			<div id="observablehq-chart_socio-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -1144,7 +1142,7 @@
 					if (name === "chart_socio")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_socio-9571a6dd"
+								"#observablehq-chart_socio-1ad6ae72"
 							)
 						);
 				});

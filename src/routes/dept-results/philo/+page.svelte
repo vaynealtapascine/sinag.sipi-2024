@@ -42,63 +42,62 @@
 			<div class="flex-grow">
 				<img
 					src={Population}
-					alt="84 voted, with 5 grad voters. There are 106 undergraduates and 65 graduate students."
+					alt="100 voted, with 2 grad voters. There are 176 undergraduates and 54 graduate students."
 					class="w-full"
 				/>
 				<p>
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-					Commodi eligendi odit, illum ea suscipit adipisci sed, iusto
-					magni iste qui voluptas eveniet sit architecto? Unde, nihil?
-					Deserunt impedit reprehenderit voluptatem, dolores, nesciunt
-					sed possimus quae odit delectus laudantium quibusdam aliquam
-					minus culpa ipsum non ratione beatae perspiciatis, labore
-					aliquid. Facilis hic adipisci sed, amet in eaque velit
-					incidunt iure corrupti, excepturi vel itaque! A, vitae!
+					With over 14% underrepresentation (or a -1.57 percentage
+					point loss), Philo ends up as the most underrepresented
+					department in the polls. It also holds the lowest voter
+					turnout of the eight departments, which is a drastic fall
+					from its previous positions, netting peak voter turnouts in
+					the previous years. This lack, perhaps, is an effect of
+					having no Department Representative candidate running for
+					the post.
 				</p>
 			</div>
 			<img
 				src={PercentDelta}
-				alt="8.02% of the College vs. 7.59% of the vote (-0.43 percentage points or -5.35%)"
+				alt="10.78% of the College vs. 9.21% of the vote (-1.57 percentage points or -14.55%)"
 				class="flex-shrink w-[clamp(100px,_15vw,_250px)]"
 			/>
 		</div>
 		<img
 			src={WAML}
-			alt="Weighed Average Minimum Lean of the department. +16.10% SAL, -23.64% BUK, -7.45% Abstain."
+			alt="Weighed Average Minimum Lean of the department. +13.45% SAL, -16.47% BUK, -7.40% Abstain."
 			class="rightwide gauge-fade"
 		/>
 		<p class="rightsmall">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-			quas at temporibus ex cum ipsum eaque molestias quia, dolor vitae
-			adipisci vel maxime sit quis mollitia eius ipsam iure exercitationem
-			laboriosam illo molestiae, eum facere nobis repudiandae?
-			Consectetur, id quidem?
+			Netting a +13% lean in favor of SALiGAN and -16% aversion to BUKLOD
+			compared to the College average, SALiGAN is in a very strong
+			position with this Department. However, this is a downturn compared
+			to the previous years, which had a +19% lean for the red party last
+			year. While the grasp clearly remains strong, it remains to be seen
+			if it is strong enough to stay.
 		</p>
 		<img
 			src={DeptResults}
-			alt="Results as per votes from the Anthropology department."
+			alt="Results as per votes from the Philosophy department."
 			class="full-span"
 		/>
 		<img
 			src={DeptSum}
-			alt="Summative of results from Anthro department."
+			alt="Summative of results from Philo department."
 			class="leftwide"
 		/>
 		<p class="leftsmall">
-			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil ad
-			voluptatem nobis.
+			Unlike other SALiGAN-dominated departments, Philo’s lack of
+			abstentions strongly favors BUKLOD’s lagging Councilor candidates
+			and nets them spots in the Council.
 		</p>
 		<p class="reg-span">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem
-			officia quisquam nihil, sint praesentium odio, veniam sapiente quis
-			tenetur deserunt ipsa ratione non, consequuntur assumenda quod
-			reiciendis pariatur cupiditate asperiores repellat eveniet qui
-			molestiae eius rerum! Aspernatur non eveniet cumque quam, tempore
-			provident sit pariatur cupiditate quasi odio adipisci impedit iure
-			repellendus quos natus nam eaque voluptatem at ut dicta. Voluptatem
-			eum dolore ullam provident incidunt, odit hic, sit perspiciatis
-			voluptatum velit consequuntur eos repudiandae, modi vitae numquam
-			cupiditate similique?
+			Philo pulls through for SALiGAN once again, netting 5% of all votes
+			across many of their candidates. And while BUKLOD is able to retain
+			positions for their Councilors in Philo, it is much more likely to
+			be a byproduct of the lack of abstentions rather than their sheer
+			numbers. Engagement in this Department is likely needed for SALiGAN
+			to either bolster their place in the Department or for BUKLOD to
+			regain a foothold here.
 		</p>
 		<PageButton
 			classNames="rightwide place-self-stretch !my-0"

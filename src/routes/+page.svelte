@@ -140,8 +140,7 @@
 		</div>
 		<h2 class="full-span wide-title">Standard Bearers & Councilors</h2>
 		<div class="observable-embed rightwide" id="chair_ob">
-			<div id="observablehq-chart_chair-ea23e540"></div>
-
+			<div id="observablehq-chart_chair-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -151,12 +150,12 @@
 					Runtime,
 					Inspector,
 				} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 				new Runtime().module(define, (name) => {
 					if (name === "chart_chair")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_chair-ea23e540"
+								"#observablehq-chart_chair-1ad6ae72"
 							)
 						);
 				});
@@ -182,7 +181,7 @@
 		</div>
 
 		<div class="observable-embed leftwide" id="vc_ob">
-			<div id="observablehq-chart_vc-ea23e540"></div>
+			<div id="observablehq-chart_vc-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -192,12 +191,12 @@
 					Runtime,
 					Inspector,
 				} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 				new Runtime().module(define, (name) => {
 					if (name === "chart_vc")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_vc-ea23e540"
+								"#observablehq-chart_vc-1ad6ae72"
 							)
 						);
 				});
@@ -222,7 +221,7 @@
 		</div>
 
 		<div class="observable-embed rightwide" id="crep_ob">
-			<div id="observablehq-chart_crep-ea23e540"></div>
+			<div id="observablehq-chart_crep-1ad6ae72"></div>
 			<link
 				rel="stylesheet"
 				href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -232,12 +231,12 @@
 					Runtime,
 					Inspector,
 				} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+				import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 				new Runtime().module(define, (name) => {
 					if (name === "chart_crep")
 						return new Inspector(
 							document.querySelector(
-								"#observablehq-chart_crep-ea23e540"
+								"#observablehq-chart_crep-1ad6ae72"
 							)
 						);
 				});
@@ -259,8 +258,7 @@
 		</div>
 		<div class="leftwide councilor-matrix">
 			<div class="observable-embed" id="ochosa_ob">
-				<div id="observablehq-chart_clrOchosa-ea23e540"></div>
-
+				<div id="observablehq-chart_clrOchosa-1ad6ae72"></div>
 				<link
 					rel="stylesheet"
 					href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -270,19 +268,19 @@
 						Runtime,
 						Inspector,
 					} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 					new Runtime().module(define, (name) => {
 						if (name === "chart_clrOchosa")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_clrOchosa-ea23e540"
+									"#observablehq-chart_clrOchosa-1ad6ae72"
 								)
 							);
 					});
 				</script>
 			</div>
 			<div class="observable-embed" id="gaspar_ob">
-				<div id="observablehq-chart_clrGaspar-ea23e540"></div>
+				<div id="observablehq-chart_clrGaspar-1ad6ae72"></div>
 				<link
 					rel="stylesheet"
 					href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -292,12 +290,12 @@
 						Runtime,
 						Inspector,
 					} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 					new Runtime().module(define, (name) => {
 						if (name === "chart_clrGaspar")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_clrGaspar-ea23e540"
+									"#observablehq-chart_clrGaspar-1ad6ae72"
 								)
 							);
 					});
@@ -315,8 +313,7 @@
 		</div>
 		<div class="rightwide councilor-matrix">
 			<div class="observable-embed" id="alfonso_ob">
-				<div id="observablehq-chart_clrAlfonso-ea23e540"></div>
-
+				<div id="observablehq-chart_clrAlfonso-1ad6ae72"></div>
 				<link
 					rel="stylesheet"
 					href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -326,20 +323,19 @@
 						Runtime,
 						Inspector,
 					} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 					new Runtime().module(define, (name) => {
 						if (name === "chart_clrAlfonso")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_clrAlfonso-ea23e540"
+									"#observablehq-chart_clrAlfonso-1ad6ae72"
 								)
 							);
 					});
 				</script>
 			</div>
 			<div class="observable-embed" id="pascua_ob">
-				<div id="observablehq-chart_clrPascua-ea23e540"></div>
-
+				<div id="observablehq-chart_clrPascua-1ad6ae72"></div>
 				<link
 					rel="stylesheet"
 					href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -349,20 +345,19 @@
 						Runtime,
 						Inspector,
 					} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 					new Runtime().module(define, (name) => {
 						if (name === "chart_clrPascua")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_clrPascua-ea23e540"
+									"#observablehq-chart_clrPascua-1ad6ae72"
 								)
 							);
 					});
 				</script>
 			</div>
 			<div class="observable-embed" id="escototo_ob">
-				<div id="observablehq-chart_clrEscototo-ea23e540"></div>
-
+				<div id="observablehq-chart_clrEscototo-1ad6ae72"></div>
 				<link
 					rel="stylesheet"
 					href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -372,19 +367,19 @@
 						Runtime,
 						Inspector,
 					} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 					new Runtime().module(define, (name) => {
 						if (name === "chart_clrEscototo")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_clrEscototo-ea23e540"
+									"#observablehq-chart_clrEscototo-1ad6ae72"
 								)
 							);
 					});
 				</script>
 			</div>
 			<div class="observable-embed" id="labiste_ob">
-				<div id="observablehq-chart_clrLabiste-ea23e540"></div>
+				<div id="observablehq-chart_clrLabiste-1ad6ae72"></div>
 				<link
 					rel="stylesheet"
 					href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -394,12 +389,12 @@
 						Runtime,
 						Inspector,
 					} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 					new Runtime().module(define, (name) => {
 						if (name === "chart_clrLabiste")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_clrLabiste-ea23e540"
+									"#observablehq-chart_clrLabiste-1ad6ae72"
 								)
 							);
 					});
@@ -432,7 +427,7 @@
 		</div>
 		<div class="leftbar">
 			<div class="observable-embed" id="matandanc_ob">
-				<div id="observablehq-chart_clrMatandac-ea23e540"></div>
+				<div id="observablehq-chart_clrMatandac-1ad6ae72"></div>
 				<link
 					rel="stylesheet"
 					href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css"
@@ -442,12 +437,12 @@
 						Runtime,
 						Inspector,
 					} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e@1879.js?v=4";
+					import define from "https://api.observablehq.com/d/6043a4cc8b34ef2e.js?v=4";
 					new Runtime().module(define, (name) => {
 						if (name === "chart_clrMatandac")
 							return new Inspector(
 								document.querySelector(
-									"#observablehq-chart_clrMatandac-ea23e540"
+									"#observablehq-chart_clrMatandac-1ad6ae72"
 								)
 							);
 					});

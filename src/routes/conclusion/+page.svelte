@@ -70,11 +70,12 @@
 				/> holds what is a majority in the Council, with <BukPlate
 					type=""
 					size=""
-				/>'s standard bearer's at the helm, a strong need for consensus
-				will be needed to get things done. Whether or not such a
-				consensus will be met is a matter of both history and
-				cooperation, with now several years of heavily mixed Councils
-				showing some level of cooperation.
+				/>'s standard bearer's at the helm, there is a strong need for
+				consensus to get things done. Whether or not such a consensus
+				will be met is a matter of both history and cooperation, with
+				now several years of heavily-mixed Councils showing some level
+				of cooperation, but with varying responses from the student
+				body.
 			</p>
 			<p>
 				But will the new Council follow suit following <SalPlate
