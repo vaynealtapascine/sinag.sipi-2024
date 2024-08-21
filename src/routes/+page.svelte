@@ -250,9 +250,9 @@
 			<h3>Turnout History</h3>
 			<p>
 				<em
-					>On the left is an interactive graph on the College turnout.
-					Tap or hover over the graph to see the rankings and turnout
-					rate for the departments.</em
+					>Here is an interactive graph on the College turnout. Tap or
+					hover over the graph to see the rankings and turnout rate
+					for the departments.</em
 				>
 			</p>
 			<p>
