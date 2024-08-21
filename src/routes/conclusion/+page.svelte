@@ -110,6 +110,14 @@
 					>. Website is powered by
 					<a href="https://svelte.dev/">Svelte</a>.
 				</p>
+				<p>
+					<em
+						>This project is open source. You can find the repo <a
+							href="https://github.com/vaynealtapascine/sinag.sipi-2024"
+							target="_blank">here</a
+						>.</em
+					>
+				</p>
 				<p class="pb-0">
 					<strong
 						>If you'd like to see more in-depth data analysis in the
