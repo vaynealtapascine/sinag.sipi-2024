@@ -112,7 +112,10 @@
 				</p>
 				<p>
 					<em
-						>This project is open source. You can find the repo <a
+						>This project is open sourced under the <strong
+							>CC BY-NC-SA 4.0 license</strong
+						>. You can find the repo
+						<a
 							href="https://github.com/vaynealtapascine/sinag.sipi-2024"
 							target="_blank">here</a
 						>.</em
